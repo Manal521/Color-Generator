@@ -1,0 +1,20 @@
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        
+        button {
+            border-radius: 10px;
+            padding: 10px;
+            font-family: 'Courier New', Courier, monospace;
+            font-style: bold;
+            font-size: 35px;
+        }
+        
+        button:hover {
+            cursor: pointer;
+            box-shadow: 10px 10px rgb(0, 0, 0);
+            letter-spacing: 1px;
+        }
